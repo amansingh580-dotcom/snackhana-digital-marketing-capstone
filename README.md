@@ -161,5 +161,3 @@ The most valuable takeaway was learning to connect **consumer insight, brand str
 **Focus Areas:** Digital Marketing, Consumer Insights, Brand Strategy, Paid Media, SEO and CRM
 
 ---
-
-*This repository documents the project's strategy, planning materials and supporting work. Campaign budgets and performance-related figures should be treated as estimates or recorded platform observations where applicable, not as independently verified business outcomes.*
